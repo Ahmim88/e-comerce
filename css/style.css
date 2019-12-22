@@ -1,0 +1,105 @@
+.menu li {
+    display: inline;
+}
+
+.menu{  margin-left:-40px;
+}
+.menu li a{
+   
+margin-right:-3px;
+  padding: 8px 60px;
+  background-color:#4699E1 ;
+  color:white ;
+}
+
+.menu li a:hover{
+
+   background-color:#A1B0BD;
+}
+
+#main-wrapper{
+
+
+    width:500px;
+    margin: 0 auto;
+    background: white;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid #2c3e50;
+}
+
+
+body{
+    background:#e17055";    
+}
+
+
+.myform{
+
+width: 450px;
+margin:0 auto;
+
+}
+.inputvalues{
+    width: 430px;
+   margin: 0 auto;
+   padding: 5px;
+
+
+}
+#login-btn{
+     margin-top: 10px;
+    background-color: yellowgreen;
+    padding: 5px;
+    color: white;
+    width: 100%;
+    text-align:center;
+    font-size: 18px;
+    font-weight: bold;
+   
+}
+#register-btn{
+    margin-top: 10px;
+    background-color:blue;
+    padding: 5px;
+    color: white;
+    width: 100%;
+    text-align:center;
+    font-size: 18px;
+    font-weight: bold;
+}
+#signup-btn{
+    margin-top: 10px;
+    background-color:blue;
+    padding: 5px;
+    color: white;
+    width: 100%;
+    text-align:center;
+    font-size: 18px;
+    font-weight: bold;
+   
+}
+#back-btn{
+    margin-top: 10px;
+    background-color: brown;
+    padding: 5px;
+    color: white;
+    width:50%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#logout-btn {
+    margin-top: 10px;
+    background-color: brown;
+    padding: 5px;
+    color: white;
+    width:100%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+   margin-bottom: 20px;
+}
+
